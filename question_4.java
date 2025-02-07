@@ -1,4 +1,3 @@
-package java_collections_assignment;
 
 import java.util.*;
 class Employe {
