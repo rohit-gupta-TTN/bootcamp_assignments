@@ -1,0 +1,19 @@
+Q.1 Implement following functional interfaces from java.util.function using lambdas: 
+1. Consumer 
+2. Supplier 
+3. Predicate 
+4. Function
+
+Q.2 Create and access default and static method of an interface.
+
+Q.3 Sum all the numbers greater than 5 in the integer list using streams
+
+Q.4 Write a program to showcase the use of optional class
+Q.5 Given a list of objects of following class: 
+class Employee{ String fullName; Long salary; String city; } 
+Get list of all unique firstNames of employees where their salary is less than 5000 and who live in delhi. Note: Full name is concatenation of first name, middle name and last name with single space in between.
+Q.6 Using java 8 date/time api: 
+1. WAP to get two dates from user and print if the first date occurs before or after the second date supplied by the user. 
+2. WAP to print current date and time in 3 different time zones.
+
+
