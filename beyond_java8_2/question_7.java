@@ -1,4 +1,5 @@
-//Q.7
+//Q.7 Demonstrate the use of firstEntry(), lastEntry(), pollFirstEntry(), pollLastEntry(), putFirst(), putLast(), reversed() with SequencedMap.
+
 package beyond_java8_2;
 
 
