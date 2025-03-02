@@ -1,0 +1,23 @@
+Q2: Add a Maven dependency and its related repository URL.
+Dependency Added: Gson 2.10.1
+Repository URL:https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1
+
+Q3: Add a new repository in the pom.xml and use its dependencies.
+Repository Added: joda-time
+Repository URL: https://jcenter.bintray.com/
+Dependency Used: joda-time
+
+Q4: Using JAR plugin, make changes in the pom.xml to make the JAR executable.
+Maven Plugin Used: Maven JAR Plugin
+Main Class Defined: com.ttn.question4
+Execution Command:  java -jar target/rohit1-1.0-SNAPSHOT.jar
+
+Q5: Differentiate between the different dependency scopes.
+Compile Scope Dependency: org.slf4j:slf4j-api(SLF4J : used for logging)
+Runtime Scope Dependency: mysql:mysql-connector-java(database connection)
+Test Scope Dependency: junit:junit(used for testing)
+Provided Scope Dependency: javax.servlet:javax.servlet-api (servlet)
+
+Q6: Create a multi-module project and package all modules.
+
+
